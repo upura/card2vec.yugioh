@@ -4,7 +4,7 @@ Repository for card2vec edited for Yugioh and Windows (Original: https://github.
 
 # Description & Demo
 
-Can be seen in the following link
+Card2vec means similarity calclation approach using card texts information using technique of word2vec or doc2vec. More detailed infomation can be seen in the following link.
 
 http://upura.hatenablog.com/entry/2018/01/21/184700
 
