@@ -1,4 +1,4 @@
-card2vec.yugioh.windows
+card2vec.yugioh
 ===
 Repository for card2vec edited for Yugioh and Windows (Original: https://github.com/GuiltyMorishita/card2vec)
 
