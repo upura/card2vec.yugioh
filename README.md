@@ -16,7 +16,7 @@ In this demo, "[ソーラー・エクスチェンジ](http://yugioh-wiki.net/ind
 # Card name you would like to know similar card
 TARGET_CARD_NAME = names[random.randint(0, len(names))]
 
-# You can specify the card nam
+# You can specify the card name
 # TARGET_CARD_NAME = "ソーラー・エクスチェンジ"
 
 card_index = names.index(TARGET_CARD_NAME)
